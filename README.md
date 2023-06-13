@@ -9,6 +9,10 @@ Welcome to the Robotics Education Platform! This project aims to provide an inte
 - Play and reset buttons to execute and reset the robot's movements.
 - Real-time visualization of the robot's position on the grid.
 
+
+https://github.com/satyamgupta0704/RoBo/assets/103809254/ee69b5ec-aa27-4aa1-94d3-4030551ac25e
+
+
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
@@ -20,33 +24,23 @@ Welcome to the Robotics Education Platform! This project aims to provide an inte
 
 ## Setup and Installation
 
-1. Clone the repository:
-
-```bash
+1. Clone the repository:```bash
 git clone https://github.com/your-username/robotics-education-platform.git
-Navigate to the project directory:
-bash
-Copy code
-cd robotics-education-platform
-Install the dependencies:
-bash
+2. Navigate to the project directory:`cd robotics-education-platform
+`
+3. Install the dependencies: 
+`npm install
+`
+5. Start the development server: `npm start`
+6. Open your browser and visit http://localhost:3000 to access the application.
 
-npm install
-Start the development server:
-bash
+### Usage
+<img width="1438" alt="Screenshot 2023-06-14 at 1 12 03 AM" src="https://github.com/satyamgupta0704/RoBo/assets/103809254/b92817e4-cc9e-4c5b-8a88-a6f16d461db3">
 
-npm start
-Open your browser and visit http://localhost:3000 to access the application.
-Usage
 Drag and drop arrows from the logic panel to the grid to program the robot's movements.
+<img width="1438" alt="Screenshot 2023-06-14 at 1 12 39 AM" src="https://github.com/satyamgupta0704/RoBo/assets/103809254/6697dc0d-2a68-409f-a0f5-e5036261e5f9">
+
 Use the play button to execute the programmed movements.
+<img width="1438" alt="Screenshot 2023-06-14 at 1 12 52 AM" src="https://github.com/satyamgupta0704/RoBo/assets/103809254/bc1f6039-d546-41af-ae77-49af0cf1b1da">
+
 Use the reset button to reset the robot's position and clear the programmed movements.
-Contributing
-Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
-Acknowledgments
-OpenAI for providing the GPT-3.5 model used for generating responses.
-Special thanks to the developers and contributors of the libraries and technologies used in this project.
